@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = day4
+build_property.RootNamespace = day4
+build_property.ProjectDir = E:\c#\ASP\projectDotNet\day4\day4\day4\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\c#\ASP\projectDotNet\day4\day4\day4
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/catalogs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0YWxvZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/catalogs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0YWxvZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/catalogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0YWxvZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/catalogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0YWxvZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/catalogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY2F0YWxvZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/allproduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxhbGxwcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/anklet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxhbmtsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/barrette.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxiYXJyZXR0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/bracelate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxicmFjZWxhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/earring.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxlYXJyaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/nacklace.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxuYWNrbGFjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/ring.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVxyaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/menu/watch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbWVudVx3YXRjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/person/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/photo/create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGhvdG9cY3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/photo/displaypost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGhvdG9cZGlzcGxheXBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/homebage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGhvbWViYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/mypost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXG15cG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/tempform.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXHRlbXBmb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/Viewadmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFZpZXdhZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxhZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/changePas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxjaGFuZ2VQYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/changePhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxjaGFuZ2VQaG90by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxob21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxwcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclxyZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/user/updateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdXNlclx1cGRhdGVQcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/c\#/ASP/projectDotNet/day4/day4/day4/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-odbv38o017

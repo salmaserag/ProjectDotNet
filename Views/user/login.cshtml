@@ -1,0 +1,40 @@
+﻿@model user
+@{
+    
+    Layout = "~/Views/Shared/tempform.cshtml";
+}
+
+
+@section title{
+    Login
+}
+
+@section img{
+    <img src="https://i.pinimg.com/564x/de/30/ed/de30ed870364ff63bfa712e3aa1256d8.jpg" />
+}
+
+<label asp-for="username">UserName</label>
+    <input type="text" asp-for="username" class="form-control"/>
+    <span asp-validation-for="username" class="text-danger"></span>
+
+    <label asp-for="password">Password</label>
+    <input type="password" asp-for="password" class="form-control"/>
+    <span asp-validation-for="password" class="text-danger"></span>
+
+     <button type="submit" value="Login">Login</button>
+
+
+
+
+
+@section Scripts{
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+
+
+
+
+
+

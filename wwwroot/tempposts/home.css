@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    font-family: "Sofia", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+header {
+    background: url("https://i.pinimg.com/564x/83/a6/40/83a64011c1e4bab79058b4c2310199e4.jpg") fixed;
+    background-size: 100%;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 25px 0px 25px;
+}
+
+
+
+.logo {
+    text-decoration: none;
+    color: #e2faf8;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.8em;
+    font-style: italic;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.navbar {
+    width: 1000px;
+    margin: 20px auto;
+    background-color: none;
+    padding: 0 20px;
+    min-height: 48px
+}
+
+    .navbar > li {
+        color: #21180d;
+        background: none;
+        padding: 15px 10px;
+        float: left;
+    }
+
+        .navbar > li a {
+            color: #21180d;
+            text-decoration: none;
+        }
+
+.menu {
+    position: relative;
+}
+
+    .menu .submenu {
+        position: absolute;
+        background-color: #fff;
+        top: 42px;
+        left: 0;
+        width: 220px;
+        padding: 10px;
+        -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+        -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+        box-shadow: 0 1px 1px rgba(0, 0, 0, .5);
+        display: none;
+    }
+
+
+.submenu li {
+    padding: 10px;
+}
+
+    .submenu li a {
+        color: #21180d;
+        text-decoration: none;
+    }
+
+        .submenu li a:hover {
+            color: #f00;
+        }
+
+.submenu::before {
+    content: "";
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #fff;
+    height: 0;
+    width: 0;
+    position: absolute;
+    left: 30px;
+    top: -6px;
+}
+
+.menu:hover .submenu {
+    display: block;
+}
+
+
+/*a select {
+    border: none;
+    width: 98px;
+    height: 43px;
+    background: none;
+    text-decoration: none;
+    color: #21180d;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 1em;
+    font-style: italic;
+}
+
+    a select :hover {
+        color: #4d4025;
+        text-decoration: underline;
+    }*/
+
+
+.navigation a {
+    text-decoration: none;
+    color: #21180d;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 1em;
+    padding-left: 30px;
+    font-style: italic;
+}
+
+    .navigation a:hover {
+        color: #4d4025;
+        text-decoration: underline;
+    }
+
+section {
+    padding: 100px 200px;
+    width: 100%;
+}
+
+.main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url("https://i.pinimg.com/564x/b3/72/39/b37239046d5f7498b5bf4cda83e7ed4d.jpg") no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.content4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card1 {
+    background-color: white;
+    width: 22em;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 5px;
+    padding: 25px;
+    margin: 22px;
+    transition: 0.7s;
+}
+
+    .card1:hover {
+        transform: scale(1.07);
+    }
+
+.icon {
+    display: inline-block;
+}
+
+    .icon img {
+        text-align: right;
+        width: 252px;
+        align-items: center;
+        align-content: center;
+    }
+
+.info {
+    display: inline-block;
+    text-align: left;
+}
+
+    .info h2 {
+        font-size: 1.8em;
+        font-weight: 400;
+        margin: 10px;
+    }
+
+    .info a {
+        color: #497e04;
+    }
+
+
+        .info a:hover {
+            text-decoration: none;
+        }
+
+.more {
+    padding: 20px 50px;
+    width: 100%;
+}
+
+.divlarge {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.left {
+    background-color: white;
+    width: 60%;
+    box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    transition: 0.7s;
+}
+
+.head {
+    width: 100%;
+}
+
+    .head h1 {
+        font-size: 1.8em;
+        font-weight: 400;
+        margin: 5px;
+    }
+
+
+.topic {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.pic {
+    background-color: white;
+    width: 30%;
+    border-radius: 5px;
+    padding: 15px 0px 10px 10px;
+    margin: 0px;
+    transition: 0.7s;
+}
+
+.para {
+    background-color: white;
+    width: 80%;
+    border-radius: 5px;
+    padding: 25px;
+    margin: 10px;
+    transition: 0.7s;
+}
+
+.message {
+    padding: 50px 30px;
+    background-color: rgb(240, 240, 240);
+    color: rgb(110, 110, 110);
+}
+
+.contanct {
+    background: url("https://i.pinimg.com/564x/28/45/87/284587d05124ed6350d6f8bf453253a5.jpg") fixed;
+    background-size: 100%;
+}
+
+.personal4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width:100%;
+}
+
+.information {
+    width: 50em;
+    padding: 0px 25px;
+    margin: 0px 12px;
+    transition: 0.7s;
+}
+
+.qq a {
+    color: rgb(110, 110, 110);
+    text-decoration: none;
+}
+
+    .qq a:hover {
+        color: white;
+    }
+
+.qq p {
+    color: rgb(110, 110, 110);
+}
+
+.btn {
+    color: black;
+    border: none;
+    background-color: #617c59;
+    color: azure;
+    float: right;
+    padding: 5px;
+    border-radius: 3px;
+    border-width: 2px;
+}
+
+.qq h2 {
+    color: #21180d;
+    font-weight: 400;
+    margin: 10px;
+}
+
+.last {
+    height: 100px;
+    width: 100%;
+    background: url("https://i.pinimg.com/564x/fd/d6/81/fdd681805fdfc1b1b1705a93926220a9.jpg") fixed;
+    text-align: center;
+}
+
+    .last a {
+        color: #21180d;
+        margin: 25px;
+        padding: 10px;
+    }
+
+        .last a:hover {
+            text-decoration: none;
+        }

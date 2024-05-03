@@ -1,0 +1,30 @@
+﻿@model photo
+@{
+    
+    Layout = "~/Views/Shared/tempform.cshtml";
+}
+
+@section title{
+    Add New Product
+}
+
+<label asp-for="title">Title</label>
+    <input type="text" asp-for="title" class="form-control"/>
+
+    <label asp-for="bref">Bref</label>
+    <input type="text" asp-for="bref" class="form-control"/>
+
+    <label asp-for="price">Price</label>
+    <input type="text" asp-for="price" class="form-control"/>
+
+    <label asp-for="img">Picture</label>
+    <input type="file" asp-for="img" name="pho" class="form-control"/>
+
+    <select asp-for="cat_id" asp-items="@ViewBag.cat" ></select>
+
+     <button type="submit" value="Post">Post</button>
+
+
+
+
+

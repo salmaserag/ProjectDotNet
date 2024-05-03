@@ -1,0 +1,40 @@
+﻿@model user
+@{
+     Layout = "~/Views/Shared/viewadmin.cshtml";
+}
+
+@section title{
+    Admin Profile 
+}
+
+@section img{
+     <img src="@Model.picture" style="border:groove;box-shadow:0 5px 25px;width:400px;height:500px;margin-left:200px;border-radius:50px;" />
+}
+
+
+
+       <label asp-for=name></label>
+       <input class="form-control" asp-for=@Model.name>
+       <span asp-validation-for=name class="text-danger"></span>
+        
+       <label asp-for=username></label>
+       <input class="form-control" asp-for=@Model.username>
+       <span asp-validation-for=username class="text-danger"></span>
+     
+       <label asp-for=email></label>
+       <input class="form-control" asp-for=@Model.email>
+       <span asp-validation-for=email class="text-danger"></span>
+    
+       <label asp-for=age></label>
+       <input class="form-control" asp-for=@Model.age>
+       <span asp-validation-for=age class="text-danger"></span>
+     
+  <br />
+  <a asp-action="updateProfile"asp-controller="user">edit</a>
+
+
+    <div>
+   
+    <a asp-action="changePhoto"asp-controller="user">changePhoto</a>
+    </div>
+

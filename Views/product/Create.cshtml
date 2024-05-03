@@ -1,0 +1,125 @@
+﻿@model day4.Models.photo
+
+@{
+    //ViewData["Title"] = "Create";
+      Layout = "~/Views/Shared/viewadmin.cshtml";
+}
+
+
+@section title{
+    <h1>Create</h1>
+}
+
+<h4>photo</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="title" class="control-label"></label>
+                <input asp-for="title" class="form-control" />
+                <span asp-validation-for="title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bref" class="control-label"></label>
+                <input asp-for="bref" class="form-control" />
+                <span asp-validation-for="bref" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="img">Picture</label>
+    <input type="file" asp-for="img" name="pho" class="form-control"/>
+
+                @*<label asp-for="img" class="control-label"></label>
+                <input asp-for="img" class="form-control" />
+                <span asp-validation-for="img" class="text-danger"></span>*@
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="date" class="control-label"></label>
+                <input asp-for="date" class="form-control" />
+                <span asp-validation-for="date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="author_id" class="control-label"></label>
+                <select asp-for="author_id" class ="form-control" asp-items="ViewBag.author_id"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="cat_id" class="control-label"></label>
+                <select asp-for="cat_id" class ="form-control" asp-items="ViewBag.cat_id"></select>
+            </div>
+            <div class="form-group">
+                 <button type="submit" value="Create">Create</button>
+               
+            </div>
+        </form>
+    </div>
+</div>
+
+    <a asp-action="Index">Back to List</a>
+
+
+
+
+
+
+                @*<h1>Create</h1>
+
+<h4>photo</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="title" class="control-label"></label>
+                <input asp-for="title" class="form-control" />
+                <span asp-validation-for="title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="bref" class="control-label"></label>
+                <input asp-for="bref" class="form-control" />
+                <span asp-validation-for="bref" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="price" class="control-label"></label>
+                <input asp-for="price" class="form-control" />
+                <span asp-validation-for="price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="img" class="control-label"></label>
+                <input asp-for="img" class="form-control" />
+                <span asp-validation-for="img" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="date" class="control-label"></label>
+                <input asp-for="date" class="form-control" />
+                <span asp-validation-for="date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="author_id" class="control-label"></label>
+                <select asp-for="author_id" class ="form-control" asp-items="ViewBag.author_id"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="cat_id" class="control-label"></label>
+                <select asp-for="cat_id" class ="form-control" asp-items="ViewBag.cat_id"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>*@

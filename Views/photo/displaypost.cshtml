@@ -1,0 +1,31 @@
+﻿@model List<photo>
+@{
+     Layout = "~/Views/Shared/mypost.cshtml";
+}
+
+
+
+@foreach(photo ss in Model)
+{
+    
+    <div class="card1">
+        <div class="icon">
+               <img src="@ss.img" width="300px" height="200px" />
+        </div>
+
+        <div class="info">
+   
+            <h1 class=text-center >@ss.title</h1>
+            <h4>@ss.bref</h4>
+            <h4> Catalog : @ss.cat.name</h4>
+            <h4> Date : @ss.date</h4>
+            <a asp-action="details" asp-route-id="@ss.id">Read More...</a>
+            <hr class="text-center"/>
+        </div>
+    </div>
+    
+}
+
+    
+
+

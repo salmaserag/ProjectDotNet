@@ -1,0 +1,43 @@
+﻿@model user
+@{
+   
+        Layout = "~/Views/Shared/tempform.cshtml";
+}
+
+@section title{
+    Update Your Profile
+}
+
+@section img{
+    <img src="@Model.picture" style="border:groove;box-shadow:0 5px 25px;width:400px;height:500px;margin-left:200px;border-radius:50px;" />
+}
+
+
+
+
+       <label asp-for=name></label>
+       <input class="form-control" asp-for=name>
+       <span asp-validation-for=name class="text-danger"></span>
+     
+       <label asp-for=username></label>
+       <input class="form-control" asp-for=username>
+       <span asp-validation-for=username class="text-danger"></span>
+    
+       <label asp-for=email></label>
+       <input class="form-control" asp-for=email>
+       <span asp-validation-for=email class="text-danger"></span>
+     
+       <label asp-for=age></label>
+       <input class="form-control" asp-for=age>
+       <span asp-validation-for=age class="text-danger"></span>
+       
+     
+     <button type="submit" value="save">Save</button>
+     
+     <a asp-action="changePas" asp-controller="user">changePassword</a>
+     <a asp-action="changePhoto"asp-controller="user">changePhoto</a>
+
+@section scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}

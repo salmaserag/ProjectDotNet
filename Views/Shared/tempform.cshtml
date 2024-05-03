@@ -1,0 +1,235 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width , initial-scale=1.0" "  />
+    <link rel="stylesheet" href="/mytempform/webform.css" />
+    
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" />
+    <title>salma</title>
+
+
+</head>
+<body>
+    <header >
+        <a href="#" class="logo">Salmlm  </a>
+        <nav class="navigation">
+
+            <ul class="navbar">
+                <li><a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="home">Home</a></li>
+                <li class="menu">
+                    <a href="#">product</a>
+                    <ul class="submenu">
+                        
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="nacklace">nacklace</a></li>
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="ring">ring</a></li>
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="earring">earring</a></li>
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="watch">watch</a></li>
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="barrette">barrette</a></li>
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="anklet">anklet</a></li>
+                        <li> <a class="nav-link text-dark" asp-area="" asp-controller="menu" asp-action="bracelate">bracelate</a></li>
+                    </ul>
+                </li>
+                
+                 @{
+                            if (Context.Session.GetInt32("userid") == null)
+                            {
+                                
+                                    <li><a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="register">Register</a></li>
+                                    <li><a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="login">Login</a></li>
+                               
+                                    
+                                
+                            }else{
+                                
+                                    <li> <a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="Profile">Profile</a></li>
+                                    <li> <a class="nav-link text-dark" asp-area="" asp-controller="photo" asp-action="create">Upload</a></li>
+                                    <li> <a class="nav-link text-dark" asp-area="" asp-controller="photo" asp-action="displaypost">My Post</a></li>
+                                    <li><a class="nav-link text-dark" asp-area="" asp-controller="user" asp-action="logout">Logout</a></li>
+                               
+                            
+                            }
+                        }
+
+
+
+            </ul>
+
+
+        </nav>
+
+
+
+
+       
+
+
+    </header>
+
+    <section class="main">
+        <div class="container">
+            <div class="content4">
+                
+            </div>
+        </div>
+
+
+    </section>
+
+
+
+
+    <section class="contanct">
+
+        <div class="personal4">
+
+
+            <div class="content4">
+                <div class="title">
+
+                   @RenderSection("title" , false)
+
+                </div>
+                <br />
+                <div>
+                    <form method="post" enctype="multipart/form-data">
+
+                        @RenderBody()
+                        
+
+
+                    </form>
+                </div>
+            </div>
+            <div>
+                @RenderSection("img" , false)
+               @* <img src="https://i.pinimg.com/564x/de/30/ed/de30ed870364ff63bfa712e3aa1256d8.jpg" />*@
+            </div>
+
+
+
+
+        </div>
+    </section>
+
+
+
+
+
+    <section class="contanct">
+
+        <div class="personal4">
+
+            <div class="information">
+
+                <div class="qq">
+                    <h2>
+                        Why Us?
+                    </h2>
+                    <hr />
+                    <a href="#"> &rsaquo; Quality consulting services </a>
+                    <hr />
+                    <a href="#"> &rsaquo; International Team </a>
+                    <hr />
+                    <a href="#"> &rsaquo; Fixed Price Packages </a>
+                    <hr />
+                    <a href="#"> &rsaquo; We Are To Assist You </a>
+                    <hr />
+
+                </div>
+            </div>
+
+            <div class="information">
+
+                <div class="qq">
+                    <h2>
+                        Address
+                    </h2>
+                    <hr />
+                    <p> Country: Cyprus </p>
+                    <hr />
+                    <p>
+                        City:Limassol, Agias Zonis
+                        <br />
+                        1, office 20
+                    </p>
+
+                    <hr />
+                    <p> Phone:+357 25 281883 </p>
+                    <hr />
+                    <p> Email: </p>
+                    <a href="#">info@dpbusiness.consulting </a>
+                    <hr />
+
+                </div>
+            </div>
+
+
+            <div class="information">
+
+                <div class="qq">
+                    <h2>
+                        Follow Us
+                    </h2>
+                    <hr />
+                    <a href="#"><img alt="" src="https://www.dpbusiness.consulting/images/icon1.jpg">Facebook</a>
+                    <hr />
+                    <a href="#"><img alt="" src="https://www.dpbusiness.consulting/images/icon2.jpg">Twitter</a>
+                    <hr />
+                    <a href="#"><img alt="" src="https://www.dpbusiness.consulting/images/icon3.jpg">LinkedIn</a>
+                    <hr />
+                    <a href="#"><img alt="" src="https://www.dpbusiness.consulting/images/icon4.jpg">Delicious</a>
+                    <hr />
+
+                </div>
+            </div>
+
+
+            <div class="information">
+
+                <div class="qq">
+                    <h2>
+                        Newsletter
+                    </h2>
+
+                    <input class="txt" type="text" placeholder="Type Your Email Here" />
+                    <br />
+                    <input class="btn" type="button" value="Subscribe" />
+
+                </div>
+            </div>
+
+
+
+
+
+
+        </div>
+    </section>
+
+
+    <div class="last">
+        <br /> <br />
+        <a href="#">&copy;2014 DP Business Consulting</a>
+    </div>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+
+
+</body>
+
+</html>

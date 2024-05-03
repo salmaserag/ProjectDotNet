@@ -1,0 +1,74 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\mytempform\.vs\VSWorkspaceState.json" />
+    <Content Include="wwwroot\tempposts\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\mytempform\.vs\testform\FileContentIndex\merges\" />
+    <Folder Include="wwwroot\mytempform\.vs\testform\v17\" />
+    <Folder Include="wwwroot\mytempform\.vs\test\FileContentIndex\merges\" />
+    <Folder Include="wwwroot\pecture\" />
+    <Folder Include="wwwroot\tempposts\.vs\createpost\FileContentIndex\merges\" />
+    <Folder Include="wwwroot\tempposts\.vs\createpost\v17\" />
+    <Folder Include="wwwroot\tempposts\.vs\testform\FileContentIndex\merges\" />
+    <Folder Include="wwwroot\tempposts\.vs\testform\v17\" />
+    <Folder Include="wwwroot\tempposts\.vs\test\FileContentIndex\merges\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\mytempform\.vs\slnx.sqlite" />
+    <None Include="wwwroot\mytempform\.vs\testform\config\applicationhost.config" />
+    <None Include="wwwroot\mytempform\.vs\testform\FileContentIndex\35825b9c-4535-4233-87ec-add7ca4545ca.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\testform\FileContentIndex\39feb59d-7f3d-4692-b178-35a3ee49471e.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\testform\FileContentIndex\7783c4d5-7339-4fc3-a0ff-bb72efed2871.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\testform\FileContentIndex\read.lock" />
+    <None Include="wwwroot\mytempform\.vs\test\config\applicationhost.config" />
+    <None Include="wwwroot\mytempform\.vs\test\FileContentIndex\344c3048-035b-4262-ba8b-6cd6553d7249.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\test\FileContentIndex\8ec66a5f-5d2a-4802-b815-16f889400857.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\test\FileContentIndex\a82cf93f-e0bf-43fc-8304-3a5711e89873.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\test\FileContentIndex\d16df920-7705-45a3-9758-34159457462c.vsidx" />
+    <None Include="wwwroot\mytempform\.vs\test\FileContentIndex\read.lock" />
+    <None Include="wwwroot\mytempform\.vs\test\v17\.suo" />
+    <None Include="wwwroot\tempposts\.vs\createpost\config\applicationhost.config" />
+    <None Include="wwwroot\tempposts\.vs\createpost\FileContentIndex\465977b0-fff2-4bd9-a047-1ea1c4936667.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\createpost\FileContentIndex\93089d3c-01f7-4a66-b139-c5d6b265535d.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\createpost\FileContentIndex\983d0eb4-3652-4450-89c9-c2d51085ac94.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\createpost\FileContentIndex\b10717b0-5678-4600-957a-688632d4cee4.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\createpost\FileContentIndex\read.lock" />
+    <None Include="wwwroot\tempposts\.vs\slnx.sqlite" />
+    <None Include="wwwroot\tempposts\.vs\testform\config\applicationhost.config" />
+    <None Include="wwwroot\tempposts\.vs\testform\FileContentIndex\35825b9c-4535-4233-87ec-add7ca4545ca.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\testform\FileContentIndex\39feb59d-7f3d-4692-b178-35a3ee49471e.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\testform\FileContentIndex\7783c4d5-7339-4fc3-a0ff-bb72efed2871.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\testform\FileContentIndex\read.lock" />
+    <None Include="wwwroot\tempposts\.vs\test\config\applicationhost.config" />
+    <None Include="wwwroot\tempposts\.vs\test\FileContentIndex\344c3048-035b-4262-ba8b-6cd6553d7249.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\test\FileContentIndex\8ec66a5f-5d2a-4802-b815-16f889400857.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\test\FileContentIndex\a82cf93f-e0bf-43fc-8304-3a5711e89873.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\test\FileContentIndex\d16df920-7705-45a3-9758-34159457462c.vsidx" />
+    <None Include="wwwroot\tempposts\.vs\test\FileContentIndex\read.lock" />
+    <None Include="wwwroot\tempposts\.vs\test\v17\.suo" />
+  </ItemGroup>
+
+</Project>

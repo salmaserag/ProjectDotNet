@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\day4.bundle.scp.css",
+      "PackagePath": "staticwebassets\\day4.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\.vs\\VSWorkspaceState.json",
+      "PackagePath": "staticwebassets\\mytempform\\.vs\\VSWorkspaceState.json"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\1h.jpg",
+      "PackagePath": "staticwebassets\\mytempform\\1h.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\2h.jpg",
+      "PackagePath": "staticwebassets\\mytempform\\2h.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\3.jpg",
+      "PackagePath": "staticwebassets\\mytempform\\3.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\4h.jpg",
+      "PackagePath": "staticwebassets\\mytempform\\4h.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\adminform.css",
+      "PackagePath": "staticwebassets\\mytempform\\adminform.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\webform.css",
+      "PackagePath": "staticwebassets\\mytempform\\webform.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\mytempform\\webform.html",
+      "PackagePath": "staticwebassets\\mytempform\\webform.html"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\0019bc88daea0dd8ae575c5e234cb53c.jpg",
+      "PackagePath": "staticwebassets\\pecture\\0019bc88daea0dd8ae575c5e234cb53c.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\0266d4b5ea295b4be0cf16e13dbc4c8c.jpg",
+      "PackagePath": "staticwebassets\\pecture\\0266d4b5ea295b4be0cf16e13dbc4c8c.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\0b434dc9deddcf2d1c106357be74d771.jpg",
+      "PackagePath": "staticwebassets\\pecture\\0b434dc9deddcf2d1c106357be74d771.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\11a1b7cb658cecfd16b20e4201e732d9.jpg",
+      "PackagePath": "staticwebassets\\pecture\\11a1b7cb658cecfd16b20e4201e732d9.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\11n.jpg",
+      "PackagePath": "staticwebassets\\pecture\\11n.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\12n.jpg",
+      "PackagePath": "staticwebassets\\pecture\\12n.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\12r.jpg",
+      "PackagePath": "staticwebassets\\pecture\\12r.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\13w.jpg",
+      "PackagePath": "staticwebassets\\pecture\\13w.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\17ae90cd49e47f5427ee3ec65e097b13.jpg",
+      "PackagePath": "staticwebassets\\pecture\\17ae90cd49e47f5427ee3ec65e097b13.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\1w.jpg",
+      "PackagePath": "staticwebassets\\pecture\\1w.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\2 (1).jpg",
+      "PackagePath": "staticwebassets\\pecture\\2 (1).jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\23c6ca87fc7698e9a3123290f80b60bf.jpg",
+      "PackagePath": "staticwebassets\\pecture\\23c6ca87fc7698e9a3123290f80b60bf.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\3.jpg",
+      "PackagePath": "staticwebassets\\pecture\\3.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\3ffbe1765ec29fccf54f83c43bc3a520.jpg",
+      "PackagePath": "staticwebassets\\pecture\\3ffbe1765ec29fccf54f83c43bc3a520.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\4r.jpg",
+      "PackagePath": "staticwebassets\\pecture\\4r.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\4w.jpg",
+      "PackagePath": "staticwebassets\\pecture\\4w.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\51548a1a29d4e85fcf9897c10aa271a1.jpg",
+      "PackagePath": "staticwebassets\\pecture\\51548a1a29d4e85fcf9897c10aa271a1.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\547a89fb712674348770034245b20d18.jpg",
+      "PackagePath": "staticwebassets\\pecture\\547a89fb712674348770034245b20d18.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\5b5d2aeff15f6447f87cd16eb31f9510.jpg",
+      "PackagePath": "staticwebassets\\pecture\\5b5d2aeff15f6447f87cd16eb31f9510.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\5w.jpg",
+      "PackagePath": "staticwebassets\\pecture\\5w.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\60c615b33b458dc9cfe8e15081f8698f.jpg",
+      "PackagePath": "staticwebassets\\pecture\\60c615b33b458dc9cfe8e15081f8698f.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\6n.jpg",
+      "PackagePath": "staticwebassets\\pecture\\6n.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\6w.jpg",
+      "PackagePath": "staticwebassets\\pecture\\6w.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\749858eb241bb5514a73b7e11533bfbb.jpg",
+      "PackagePath": "staticwebassets\\pecture\\749858eb241bb5514a73b7e11533bfbb.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\7c9c28744d55117af0c715dd5e681205.jpg",
+      "PackagePath": "staticwebassets\\pecture\\7c9c28744d55117af0c715dd5e681205.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\7n.jpg",
+      "PackagePath": "staticwebassets\\pecture\\7n.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\8n.jpg",
+      "PackagePath": "staticwebassets\\pecture\\8n.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\9a79eb51dec0f1623f34b63aa980faad.jpg",
+      "PackagePath": "staticwebassets\\pecture\\9a79eb51dec0f1623f34b63aa980faad.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\a671c4e026e000b8104a80a38073fb7a.jpg",
+      "PackagePath": "staticwebassets\\pecture\\a671c4e026e000b8104a80a38073fb7a.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\a714c7da0e75e2cb5940833d9c2a8903.jpg",
+      "PackagePath": "staticwebassets\\pecture\\a714c7da0e75e2cb5940833d9c2a8903.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\abdb457ed893dc7be86999870c2eb5d3.jpg",
+      "PackagePath": "staticwebassets\\pecture\\abdb457ed893dc7be86999870c2eb5d3.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\b7b415be30074b4467aadbfb4f23af42.jpg",
+      "PackagePath": "staticwebassets\\pecture\\b7b415be30074b4467aadbfb4f23af42.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\ba2bf7fd77609b3f22a76b42445e8370.jpg",
+      "PackagePath": "staticwebassets\\pecture\\ba2bf7fd77609b3f22a76b42445e8370.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\ba368d11eb530e68a11bff03abe16998.jpg",
+      "PackagePath": "staticwebassets\\pecture\\ba368d11eb530e68a11bff03abe16998.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\c4b81d6838e90048cea674206b530a7e.jpg",
+      "PackagePath": "staticwebassets\\pecture\\c4b81d6838e90048cea674206b530a7e.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\ce6f13ff8c25c41b1b1d662df47aab73.jpg",
+      "PackagePath": "staticwebassets\\pecture\\ce6f13ff8c25c41b1b1d662df47aab73.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\d731c71d1fe3dea6a71317dd7e602e54.jpg",
+      "PackagePath": "staticwebassets\\pecture\\d731c71d1fe3dea6a71317dd7e602e54.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\d97e600e711201920a70252e4ba39dc7.jpg",
+      "PackagePath": "staticwebassets\\pecture\\d97e600e711201920a70252e4ba39dc7.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\e8e989ecfbc9b72ad8abbdc16c13f74a.jpg",
+      "PackagePath": "staticwebassets\\pecture\\e8e989ecfbc9b72ad8abbdc16c13f74a.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\edf822b61b9cd392f70a72f28f9c26aa.jpg",
+      "PackagePath": "staticwebassets\\pecture\\edf822b61b9cd392f70a72f28f9c26aa.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\f06a5018062d89d8c63017b6b5eeecf0.jpg",
+      "PackagePath": "staticwebassets\\pecture\\f06a5018062d89d8c63017b6b5eeecf0.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\f13d5dd60701e49fb44ed83c959e1fc2.jpg",
+      "PackagePath": "staticwebassets\\pecture\\f13d5dd60701e49fb44ed83c959e1fc2.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\f2e6cf85e17f4d8f5fd5c77eee012d74.jpg",
+      "PackagePath": "staticwebassets\\pecture\\f2e6cf85e17f4d8f5fd5c77eee012d74.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\fb8dbed38edeb9c4759be85ca50c3ba8.jpg",
+      "PackagePath": "staticwebassets\\pecture\\fb8dbed38edeb9c4759be85ca50c3ba8.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\pecture\\feed371188bedac77c26583a4955220d.jpg",
+      "PackagePath": "staticwebassets\\pecture\\feed371188bedac77c26583a4955220d.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\.vs\\VSWorkspaceState.json",
+      "PackagePath": "staticwebassets\\tempposts\\.vs\\VSWorkspaceState.json"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\1copy.jpg",
+      "PackagePath": "staticwebassets\\tempposts\\1copy.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\6696fd9a4e7d34684c4d4c9360969e95.jpg",
+      "PackagePath": "staticwebassets\\tempposts\\6696fd9a4e7d34684c4d4c9360969e95.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\copy.jpg",
+      "PackagePath": "staticwebassets\\tempposts\\copy.jpg"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\createp.css",
+      "PackagePath": "staticwebassets\\tempposts\\createp.css"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\createp.html",
+      "PackagePath": "staticwebassets\\tempposts\\createp.html"
+    },
+    {
+      "Id": "E:\\c#\\ASP\\projectDotNet\\day4\\day4\\day4\\wwwroot\\tempposts\\home.css",
+      "PackagePath": "staticwebassets\\tempposts\\home.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.day4.props",
+      "PackagePath": "build\\day4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.day4.props",
+      "PackagePath": "buildMultiTargeting\\day4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.day4.props",
+      "PackagePath": "buildTransitive\\day4.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.day4.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

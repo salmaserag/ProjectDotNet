@@ -1,0 +1,30 @@
+﻿@model user
+@{
+    
+        Layout = "~/Views/Shared/tempform.cshtml";
+}
+
+@section title{
+    Change Your Password
+}
+
+@section img{
+
+    <img src="@Model.picture" style="border:groove;box-shadow:0 5px 25px;width:400px;height:500px;margin-left:200px;border-radius:50px;" />
+}
+
+
+
+            <label asp-for=password></label>
+            <input type="password" class="form-control" asp-for="password" />
+            <span asp-validation-for=password class="text-danger"></span>
+       
+
+       <label asp-for=confirm_password></label>
+       <input type="password" class="form-control" asp-for="confirm_password" />
+       <span asp-validation-for=confirm_password class="text-danger"></span>
+     
+
+         
+         <button type="submit" value="save">Save</button>
+

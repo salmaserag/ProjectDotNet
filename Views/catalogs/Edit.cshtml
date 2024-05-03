@@ -1,0 +1,35 @@
+﻿@model day4.Models.catalog
+
+@{
+    //ViewData["Title"] = "Edit";
+         Layout = "~/Views/Shared/viewadmin.cshtml";
+}
+
+@section title{
+    <h1>Edit</h1>
+}
+
+<h4>catalog</h4>
+<hr />
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="id" />
+           
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+          
+                <label asp-for="admin_id" class="control-label"></label>
+                <select asp-for="admin_id" class="form-control" asp-items="ViewBag.admin_id"></select>
+                <span asp-validation-for="admin_id" class="text-danger"></span>
+           
+                <button type="submit" value="Save">Save</button>
+           
+<br />
+
+    <a asp-action="Index">Back to List</a>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,42 @@
+﻿@model day4.Models.catalog
+
+@{
+    //ViewData["Title"] = "Details";
+     Layout = "~/Views/Shared/viewadmin.cshtml";
+}
+
+@section title{
+<h1>Details</h1>
+}
+
+
+
+
+<div>
+    <h4>catalog</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2" style="display:inline-block ; font-size:20px ; font-weight:600" >
+            @Html.DisplayNameFor(model => model.name)
+        </dt>
+        <dd class = "col-sm-10" >
+            @Html.DisplayFor(model => model.name)
+        </dd>
+        
+        <dt class = "col-sm-2" style="display:inline-block ; font-size:20px ; font-weight:600">
+            @Html.DisplayNameFor(model => model.admin)
+        </dt>
+        <dd class = "col-sm-10" >
+            @Html.DisplayFor(model => model.admin.email)
+        </dd>
+    </dl>
+</div>
+
+<br />
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
+

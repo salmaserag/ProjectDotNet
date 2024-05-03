@@ -1,0 +1,64 @@
+﻿@model user
+
+@{
+    
+    Layout = "~/Views/Shared/tempform.cshtml";
+}
+
+
+@section title{
+    Registration
+}
+
+@section img{
+    <img src="https://i.pinimg.com/564x/51/d7/f2/51d7f299818e22467e327be34905be9c.jpg" />
+}
+
+
+
+
+    <label asp-for="name">Name</label>
+    <input type="text" asp-for="name" class="form-control"/>
+    <span asp-validation-for="name" class="text-danger"></span>
+
+    <label asp-for="username">UserName</label>
+    <input type="text" asp-for="username" class="form-control"/>
+    <span asp-validation-for="username" class="text-danger"></span>
+
+    <label asp-for="password">Password</label>
+    <input type="password" asp-for="password" class="form-control"/>
+    <span asp-validation-for="password" class="text-danger"></span>
+
+    <label asp-for="confirm_password">Confirm Password</label>
+    <input type="password" asp-for="confirm_password"  class="form-control"/>
+    <span asp-validation-for="confirm_password" class="text-danger"></span>
+
+    <label asp-for="email">Email</label>
+    <input type="text" asp-for="email"  class="form-control"/>
+    <span asp-validation-for="email" class="text-danger"></span>
+
+    <label asp-for="age">Age</label>
+    <input type="text" asp-for="age"  class="form-control"/>
+    <span asp-validation-for="age" class="text-danger"></span>
+
+    <select>
+        <option>Male</option>
+        <option>Female</option>
+    </select>
+
+     <button type="submit" value="register">Register</button>
+
+
+
+@section Scripts{
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+}
+
+
+
+
+
+
+
